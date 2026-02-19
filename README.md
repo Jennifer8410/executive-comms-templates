@@ -20,3 +20,9 @@ Jennifer Goldstein
 Website: https://jennifergoldstein.my.canva.site/jgmediaconsultinggroup  
 LinkedIn: https://www.linkedin.com/in/jennifer-goldstein-50a566315  
 Instagram: @jgmc.2026
+## Templates
+- [Company Announcement Template](templates/Company-Announcement-Template.md)
+- [CEO LinkedIn Post Frameworks](templates/CEO-LinkedIn-Post-Frameworks.md)
+
+## Examples
+(Coming soon)
